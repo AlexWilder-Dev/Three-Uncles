@@ -1,0 +1,119 @@
+Three Uncles | Hot Dinners
+Three Uncles
+Chinese | South London
+Three Uncles started life as a takeaway restaurant, but their Brixton opening was the first time they launched a more traditional restaurant. Here they concentrate on the Cantonese roasted meats that have won them a great reputation, so expect roasted duck, crispy pork belly, char siu BBQ pork and lots more.
+Restaurant details
+Address: Unit 19 & 20, Brixton Village, London SW9 8PR
+Nearest station:
+Brixton
+Telephone number: 020 3592 5374
+Map
+Start Address
+DrivingBicyclingTransitWalking
+End
+Get Directions
+Unit 19 & 20, Brixton Village, London SW9 8PR
+{{title}}
+{{#ratings}}
+{{#editor}}
+(
+{{count}})
+{{/editor}}
+{{#user}}
+(
+{{count}})
+{{/user}}
+{{/ratings}}
+{{title}}
+{{#ownerCreatedBlock}}
+{{#owner}}
+{{#url}}
+{{#avatarSrc}}
+{{/avatarSrc}}
+{{^avatarSrc}}
+{{& avatar}}
+{{/avatarSrc}}
+{{name}}
+{{/url}}
+{{^url}}
+{{#avatar}}
+{{& avatar}}
+{{/avatar}}
+{{name}}
+{{/url}}
+{{/owner}}
+{{#created}}
+{{created}}
+{{/created}}
+{{/ownerCreatedBlock}}
+{{#category}}
+Category: {{category.title}}
+{{/category}}
+{{#fields}}
+{{#showLabel}}
+{{label}}:{{/showLabel}}
+{{& text}}
+{{/fields}}
+Also see...
+Aba-Ra Soho is bringing its Georgian food and wine to Wardour Street
+Tom Booton reveals details of his first solo restaurant, Ralphie's, in Belgravia
+Black Axe Mangal chef Lee Tiernan is back with a Kerrygold sandwich shop pop-up
+Test Driving Cloth Cornhill, honouring the legacy of Simpson's Tavern while taking it to the next level
+London's newest set menu restaurant deals
+Be first in to try SUMI Marylebone with 50% off your food bill
+Be first in to try SUMI Marylebone with 50% off your food bill
+Be first in to try SUMI Marylebone with 50% off your food bill
+Get free snacks or a cheese & charcuterie board at the launch of Yield Essex Road in Islington
+Get free snacks or a cheese & charcuterie board at the launch of Yield Essex Road in Islington
+Get 50% off your bill and a sneak preview of Carmelina's on Lincoln's Inn Fields
+Get 50% off your bill and a sneak preview of Carmelina's on Lincoln's Inn Fields
+Get a free veggie dish with every pita at Miznon Spitalfields
+Get a free veggie dish with every pita at Miznon Spitalfields
+Get 25% off your total bill at NOTTO for early and late diners
+Get 25% off your total bill at NOTTO for early and late diners
+Get Sandro Farmhouse's limited edition tiramisu cookie at Signorelli for £3 (usually £5.50) this October
+Get Sandro Farmhouse's limited edition tiramisu cookie at Signorelli for £3 (usually £5.50) this October
+Get a free glass of Champagne or dessert (per person) at Milk Burger in Notting Hill
+Get a free glass of Champagne or dessert (per person) at Milk Burger in Notting Hill
+Enjoy 50% off your food bill at the new-look Quaglino’s this October
+Enjoy 50% off your food bill at the new-look Quaglino’s this October
+Be first in to try SUMI Marylebone with 50% off your food bill
+Be first in to try SUMI Marylebone with 50% off your food bill
+Get free snacks or a cheese & charcuterie board at the launch of Yield Essex Road in Islington
+Get free snacks or a cheese & charcuterie board at the launch of Yield Essex Road in Islington
+Get 50% off your bill and a sneak preview of Carmelina's on Lincoln's Inn Fields
+Get 50% off your bill and a sneak preview of Carmelina's on Lincoln's Inn Fields
+Get a free veggie dish with every pita at Miznon Spitalfields
+Get a free veggie dish with every pita at Miznon Spitalfields
+Get 25% off your total bill at NOTTO for early and late diners
+Get 25% off your total bill at NOTTO for early and late diners
+Get Sandro Farmhouse's limited edition tiramisu cookie at Signorelli for £3 (usually £5.50) this October
+Get Sandro Farmhouse's limited edition tiramisu cookie at Signorelli for £3 (usually £5.50) this October
+Get a free glass of Champagne or dessert (per person) at Milk Burger in Notting Hill
+Get a free glass of Champagne or dessert (per person) at Milk Burger in Notting Hill
+Enjoy 50% off your food bill at the new-look Quaglino’s this October
+Enjoy 50% off your food bill at the new-look Quaglino’s this October
+Get our newsletter
+Please fill in this field
+Subscribe
+By signing up you agree to our
+New and coming soon
+All the new London restaurants - recently opened restaurants in London
+Upcoming London restaurants - hot new openings coming soon
+Latest
+Aba-Ra Soho is bringing its Georgian food and wine to Wardour Street
+Tom Booton reveals details of his first solo restaurant, Ralphie's, in Belgravia
+Black Axe Mangal chef Lee Tiernan is back with a Kerrygold sandwich shop pop-up
+Test Driving Cloth Cornhill, honouring the legacy of Simpson's Tavern while taking it to the next level
+London's newest set menu restaurant deals
+Be first in to try SUMI Marylebone with 50% off your food bill
+One of London's oldest restaurant, Rules, is now a National Trust property
+Le Creuset are popping up in Harrods with an immersive experience
+Where to eat at Frieze London 2026
+Manchester's Tabitha's coffee shop is coming to London for a Mayfair pop-up
+More news & reviews
+Offers
+Be first in to try SUMI Marylebone with 50% off your food bill
+Get free snacks or a cheese & charcuterie board at the launch of Yield Essex Road in Islington
+More offers
+Back To Top
