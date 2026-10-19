@@ -32,7 +32,7 @@ npm run build      # dist/, base /three-uncles/
 npm run assets     # one-off: web images, favicons, og.jpg and the CJK font subset
 ```
 
-Stack: Vite, React, TypeScript, Framer Motion, HashRouter. Deploys to GitHub Pages from `main` via `.github/workflows/deploy.yml` (Pages source: GitHub Actions).
+Stack: Vite, React, TypeScript, Framer Motion, HashRouter. Deploys to GitHub Pages from the default branch via `.github/workflows/deploy.yml` (Pages source: GitHub Actions).
 
 Type: Red Hat Mono, Roboto Slab and Noto Sans HK (all OFL), standing in for the licensed Pitch Sans and Rum Serif on their current site. Identity by Studio NinetyOne. Photography and graphics belong to Three Uncles.
 
