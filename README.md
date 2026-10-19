@@ -2,7 +2,7 @@
 
 A speculative website for [Three Uncles](https://www.threeuncles.co.uk), the Cantonese roast meat group: seven London sites, led by Brixton Village, plus a Deliveroo kitchen in Bermondsey.
 
-Demo: https://alexwilder-dev.github.io/three-uncles/
+Demo: https://alexwilder-dev.github.io/Three-Uncles/
 
 ## What it does
 
@@ -28,7 +28,7 @@ Everything factual is in [`src/data/threeUncles.ts`](src/data/threeUncles.ts), s
 ```sh
 npm install
 npm run dev        # local
-npm run build      # dist/, base /three-uncles/
+npm run build      # dist/, base /Three-Uncles/
 npm run assets     # one-off: web images, favicons, og.jpg and the CJK font subset
 ```
 

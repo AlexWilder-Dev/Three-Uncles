@@ -1021,4 +1021,4 @@ export const newsletter = {
   consent: 'Yes, I want to be notified.',
 }
 
-export const SITE_URL = 'https://alexwilder-dev.github.io/three-uncles/'
+export const SITE_URL = 'https://alexwilder-dev.github.io/Three-Uncles/'
